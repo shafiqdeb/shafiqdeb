@@ -1,7 +1,7 @@
 # Hello World
 Welcome to my humble profile! ✨ <br>
 
-#### A little about myself:
+### A little about myself:
 - 🎓 Graduated with Bachelor of Mathematical Sciences
 - 📚 Currently learning `Data Science` and `Data Visualization`
 - 📝 2021 Goals: *Create more Data Science related projects*
