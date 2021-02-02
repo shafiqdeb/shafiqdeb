@@ -1,5 +1,5 @@
 # Hello World
-This is my first repository! ✨ <br>
+Welcome to my humble profile! ✨ <br>
 
 #### A little about myself:
 - 🎓 Graduated with Bachelor of Mathematical Sciences
