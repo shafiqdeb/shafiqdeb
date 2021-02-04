@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/shafiqdeb/shafiqdeb/main/banner.gif)](#) &emsp;
+
 # Hello World! <img align="right" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shafiqdeb.shafiqdeb"/>
 Welcome to my humble profile! ✨ <br>
 
@@ -8,15 +10,16 @@ Welcome to my humble profile! ✨ <br>
 📚 Currently learning `Data Science` and `Data Visualization` <br>
 📝 2021 Goals: *Create more Data Science related projects* <br>
 
-### Languages:
-<img align="left" alt="Python" width="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> Python
-<br>
-<img align="left" alt="SQL" width="20px" src="https://cdn2.iconfinder.com/data/icons/mix-color-5/100/Mix_color_5__dwg-512.png"> SQL
-<br>
-<img align="left" alt="NoSQL" width="20px" src="https://cdn3.iconfinder.com/data/icons/network-technology-2-8/48/105-512.png"> NoSQL
+### 🧾 Skills:
 
-### Connect with me:
-<img align="left" alt="Shafiq Debayan | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" /> [LinkedIn](https://www.linkedin.com/in/shafiqdebayan/)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
+
+### 🤝 Connect with me:
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqdebayan/) &emsp;
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shafiqdeb&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="shafiqdeb's github stats">
