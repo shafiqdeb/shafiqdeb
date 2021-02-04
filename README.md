@@ -10,14 +10,14 @@ Welcome to my humble profile! ✨ <br>
 📚 Currently learning `Data Science` and `Data Visualization` <br>
 📝 2021 Goals: *Create more Data Science related projects* <br>
 
-## Skills 💻
+### Skills 💻
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
 
-## Connect with me 👥
+### Connect with me 👥
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqdebayan/) &emsp;
 
