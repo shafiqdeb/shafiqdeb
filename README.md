@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/shafiqdeb/shafiqdeb/main/banner.gif)](#) &emsp;
+
 
 # Hello World! <img align="right" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shafiqdeb.shafiqdeb"/>
 Welcome to my humble profile! ✨ <br>
