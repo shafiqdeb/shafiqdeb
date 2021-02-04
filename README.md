@@ -11,9 +11,9 @@ Welcome to my humble profile! ✨ <br>
 ### Languages:
 <img align="left" alt="Python" width="20px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> Python
 <br>
-<img align="left" alt="SQL" width="20px" src="https://cdn3.iconfinder.com/data/icons/network-technology-2-8/48/105-512.png"> SQL
+<img align="left" alt="SQL" width="20px" src="https://cdn2.iconfinder.com/data/icons/mix-color-5/100/Mix_color_5__dwg-512.png"> SQL
 <br>
-<img align="left" alt="NoSQL" width="20px" src="https://cdn2.iconfinder.com/data/icons/mix-color-5/100/Mix_color_5__dwg-512.png"> NoSQL
+<img align="left" alt="NoSQL" width="20px" src="https://cdn3.iconfinder.com/data/icons/network-technology-2-8/48/105-512.png"> NoSQL
 
 ### Connect with me:
 <img align="left" alt="Shafiq Debayan | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" /> [LinkedIn](https://www.linkedin.com/in/shafiqdebayan/)
