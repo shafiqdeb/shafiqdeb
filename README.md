@@ -18,12 +18,11 @@ Welcome to my humble profile! ✨ <br>
 
 ### My GitHub Statistics 📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shafiqdeb&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e&hide_border=True&hide_title=True" alt="shafiqdeb's github stats">
+![](https://github-readme-stats.vercel.app/api?username=shafiqdeb&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e&hide_border=True&hide_title=True)
 
 ### My Favourite Languages 🏛
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqdeb&theme=dark&layout=compact&hide_border=True&hide_title=True">
-<br>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqdeb&theme=dark&layout=compact&hide_border=True&hide_title=True)](https://github.com/shafiqdeb/github-readme-stats)
 
 ### Pinned Repository 📌
 
