@@ -16,6 +16,12 @@ Welcome to my humble profile! ✨ <br>
 [![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
 
+### Connect with me 👥
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqdebayan/) &emsp;
+[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pikdeb/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqdebayan@gmail.com) &emsp;
+
 ### My GitHub Statistics 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=shafiqdeb&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e&hide_border=True&hide_title=True)
@@ -27,9 +33,3 @@ Welcome to my humble profile! ✨ <br>
 ### Pinned Repository 📌
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=shafiqdeb&repo=Business-Analytic-Project&theme=dark&hide_border=True)](https://github.com/shafiqdeb/Business-Analytic-Project)
-
-### Connect with me 👥
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqdebayan/) &emsp;
-[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pikdeb/) &emsp;
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqdebayan@gmail.com) &emsp;
