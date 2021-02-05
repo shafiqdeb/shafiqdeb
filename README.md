@@ -1,11 +1,10 @@
-
-
 # Hello World! <img align="right" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shafiqdeb.shafiqdeb"/>
+
 Welcome to my humble profile! ✨ <br>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### A little about myself:
+### A little bit about myself 👤
 🎓 Graduated with Bachelor of Mathematical Sciences <br>
 📚 Currently learning `Data Science` and `Data Visualization` <br>
 📝 2021 Goals: *Create more Data Science related projects* <br>
@@ -20,8 +19,11 @@ Welcome to my humble profile! ✨ <br>
 ### Connect with me 👥
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqdebayan/) &emsp;
+[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pikdeb/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqdebayan@gmail.com) &emsp;
 
-<br>
+### Stats 📊
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shafiqdeb&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="shafiqdeb's github stats">
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqdeb&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes">
