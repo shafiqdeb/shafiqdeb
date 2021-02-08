@@ -15,12 +15,14 @@ Welcome to my humble profile! ✨ <br>
 [![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 
 ### Connect with me 👥
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiqdebayan/) &emsp;
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pikdeb/) &emsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiqdebayan@gmail.com) &emsp;
+[![](https://img.shields.io/badge/Hackerrank-0bb359?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shafiqdebayan) &emsp;
 
 ### My GitHub Statistics 📊
 
