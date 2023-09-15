@@ -34,4 +34,4 @@ Welcome to my humble profile! ✨ <br>
 
 ### Pinned Repository 📌
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shafiqdeb&repo=Business-Analytic-Project&theme=dark&hide_border=True)](https://github.com/shafiqdeb/Business-Analytic-Project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shafiqdeb&repo=Hotel-Booking-Demand-Analysis&theme=dark&hide_border=True)](https://github.com/shafiqdeb/Hotel-Booking-Demand-Analysis)
